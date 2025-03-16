@@ -1,0 +1,10 @@
+package net.lasri.dao;
+
+public class IDao {
+    public IDao() {
+    }
+
+    public double getData() {
+
+    }
+}

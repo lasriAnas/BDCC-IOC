@@ -1,0 +1,2 @@
+net.lasri.dao.DaoImpl
+net.lasri.metier.MetierImpl
